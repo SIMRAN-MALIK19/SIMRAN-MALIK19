@@ -48,6 +48,7 @@ I'm a **MS-CS student at UMass Amherst** with a passion for **Distributed System
 - Exploring **AI for system optimization, federated learning, predictive analytics, and intelligent automation. applications**.
 
 🔹 **Collaborating & Contributing** – Open to **research projects, open-source contributions, and hackathons**!
+
 ---
 
 ## 📫 Let’s Connect!
